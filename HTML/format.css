@@ -1,0 +1,41 @@
+p {
+  color:blue;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+h1{
+  color:rgb(175, 52, 81);
+
+}
+h2{
+  color:green
+}
+h3{font-size:large;
+  color:#191970;
+
+}
+h4{
+  color:brown;
+    font-size:18px;font-style:italic;font-weight:900;
+  text-align:center;
+}
+/* this id for change font color*/
+#pcolor{
+  color:purple;
+}
+/*this class for change backgroun color*/
+.ydiv{
+  background-color:yellow;
+}
+table{
+  border:3px solid;
+    border-collapse:collapse;
+  border-color:blue;
+}
+th,td{
+  border-width:2px;
+  border-style:dotted;
+  border-color:gray;
+}
+img{
+  float:right;
+}
